@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Img/grass16x16.GIF</file>
+    </qresource>
+</RCC>
